@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-local-business-lead-builder": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-local-business-lead-builder"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}
