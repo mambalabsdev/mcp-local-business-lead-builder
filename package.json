@@ -1,6 +1,6 @@
 {
   "name": "@mambalabsdev/mcp-local-business-lead-builder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for Local Business Lead Builder. Build local business lead lists from Google Maps: one row per business with website, phone, address, coordinates, categories, rating, review count, and hours, for any category and place. Runs on Apify. Clay-ready output.",
   "type": "module",
   "bin": {
